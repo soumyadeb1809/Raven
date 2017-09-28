@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046732825145",
+    "firebase_url": "https://slimechat-5f413.firebaseio.com",
+    "project_id": "slimechat-5f413",
+    "storage_bucket": "slimechat-5f413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046732825145:android:6e5fd8e3aa8fc5aa",
+        "android_client_info": {
+          "package_name": "soumyadeb.slimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046732825145-1111p31q3a4ro3a5h062qfjkilf3dmmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "soumyadeb.slimechat",
+            "certificate_hash": "1ddb10a768c41f5746ec58f964c16d26d10895c5"
+          }
+        },
+        {
+          "client_id": "1046732825145-0h3k9pu04fh8h9gh4p9mrdr1m7e88h0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsw-W0AWkjaRSBzyUIfzwMY9QDONcu3aM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046732825145-0h3k9pu04fh8h9gh4p9mrdr1m7e88h0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

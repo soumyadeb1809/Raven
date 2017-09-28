@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Raven</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="display_name">Display Name</string>
+    <string name="logout">Logout</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="your_email">Your Email</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_status">Your Status</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="send_friend_request">Send friend request</string>
+    <string name="settings">Settings</string>
+    <string name="decline_friend_request">Decline friend request</string>
+</resources>

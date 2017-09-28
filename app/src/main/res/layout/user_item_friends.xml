@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/ic_circle_profile_img"
+        android:id="@+id/img_profile" />
+
+    <TextView
+        android:id="@+id/text_display_name"
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:gravity="center"
+        android:layout_alignTop="@+id/img_profile"
+        android:layout_toEndOf="@+id/img_profile"
+        android:text="Display Name"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="4dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/text_status"
+        android:layout_width="wrap_content"
+        android:layout_height="18dp"
+        android:layout_alignBottom="@+id/img_profile"
+        android:layout_toEndOf="@+id/img_profile"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="8dp"
+        android:text="Status of user" />
+
+    <ImageButton
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/ic_chat"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true"
+        android:layout_marginEnd="8dp" />
+
+</RelativeLayout>
